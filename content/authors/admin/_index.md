@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Senkang Hu (胡森康)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bachelor Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Beijing Institute of technology
+  url: http://www.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Research Interests:
+interests:
 - Artificial Intelligence
 - Computer Vision
 - Intelligent processing of remote sensing images
