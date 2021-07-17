@@ -2,9 +2,7 @@
 title: Senkang Hu (胡森康)
 role: Bachelor Student
 avatar_filename: avatar.jpg
-bio: My research interests include computer vision and intelligent processing of
-  remote sensing images, If you have any academic question, please drop me a
-  email.
+bio: My research interests include computer vision and intelligent processing of remote sensing images, If you have any academic question, please drop me a email.
 interests:
   - Artificial Intelligence
   - Computer Vision
@@ -23,10 +21,9 @@ education:
   courses:
     - course: BSc in Electronic Information Engineering
       institution: Beijing Institute of Technology
-      year: 2022
+      year: 2018-2022
     - course: The High School Affiliated to Shaanxi Normal University
-      year: 2018
-      institution: The High School Affiliated to Shaanxi Normal University
+      year: 2015-2018
 email: ""
 superuser: true
 highlight_name: true
