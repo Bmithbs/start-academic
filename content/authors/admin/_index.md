@@ -14,7 +14,7 @@ organizations:
   url: http://www.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and intelligent processing of remote sensing images.
+bio: My research interests include computer vision and intelligent processing of remote sensing images, If you have any academic question, please drop me a email.
 
 # Interests to show in About widget
 interests:
@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm Senakng Hu (胡森康), a bachelor student in electronic information engineering, Beijing Institute of Technology. In the future, I will be engaged in the research of computer vision, intelligent processing of remote sensing images, etc. If you have any academic question or other questions, please drop me an email!
+I'm Senkang Hu (胡森康), a bachelor student in electronic information engineering, Beijing Institute of Technology. In the future, I will be engaged in the research of computer vision, intelligent processing of remote sensing images, etc. If you have any academic question or other questions, please drop me an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
