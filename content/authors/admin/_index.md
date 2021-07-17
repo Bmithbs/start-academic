@@ -23,9 +23,9 @@ education:
   courses:
     - course: BSc in Electronic Information Engineering
       institution: Beijing Institute of Technology
-      year: ""
+      year: 2022
     - course: The High School Affiliated to Shaanxi Normal University
-      year: ""
+      year: 2018
       institution: The High School Affiliated to Shaanxi Normal University
 email: ""
 superuser: true
