@@ -19,6 +19,9 @@ organizations:
     url: http://www.bit.edu.cn/
 education:
   courses:
+    - course: PhD in Information and Communications Engineering
+      institution: University of China Academy of Science
+      year: 2022-2027
     - course: BSc in Electronic Information Engineering
       institution: Beijing Institute of Technology
       year: 2018-2022
