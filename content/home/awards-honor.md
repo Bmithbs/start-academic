@@ -1,5 +1,5 @@
 ---
-widget: Awards & Honor
+widget: Awards
 widget_id: Awards & Honor
 headless: true
 weight: 125
