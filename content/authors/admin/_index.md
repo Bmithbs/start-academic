@@ -14,22 +14,22 @@ organizations:
   url: http://www.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision and intelligent processing of remote sensing images.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computer Vision
-- Intelligent processing of remote sensing images
+- Intelligent Processing of Remote Sensing Images
 
 # Education to show in About widget
 education:
   courses:
   - course: BSc in Electronic Information Engineering
     institution: Beijing Institute of Technology
-    year: 2022
+    year: 2018-2022
   - course: The High School Affiliated to Shannxi Normal University
-    year: 2018
+    year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: huhbu@outlook.com
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -66,8 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Senakng Hu (胡森康) is a bachelor student in electronic information engineering, Beijing Institute of Technology. In the future, I will be engaged in the research of computer vision, intelligent processing of remote sensing images, etc. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
