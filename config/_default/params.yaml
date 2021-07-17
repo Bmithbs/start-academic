@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Mr Robot
+theme: Minimal
 day_night: true
 font: ''
 font_size: L
@@ -22,11 +22,10 @@ twitter: ''
 
 email: huhbu@outlook.com
 contact_links:
-
   - icon: skype
     icon_pack: fab
-    name: Skype Name
-    link: 'live:huhbu?call'
+    name: live:huhbu
+    
 
 
 # Site header
