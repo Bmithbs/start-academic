@@ -63,9 +63,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Senakng Hu (胡森康) is a bachelor student in electronic information engineering, Beijing Institute of Technology. In the future, I will be engaged in the research of computer vision, intelligent processing of remote sensing images, etc. 
+Senakng Hu (胡森康) is a bachelor student in electronic information engineering, Beijing Institute of Technology. In the future, I will be engaged in the research of computer vision, intelligent processing of remote sensing images, etc. If you have any academic question or other questions, please drop me a email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
